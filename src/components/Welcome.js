@@ -7,7 +7,7 @@ export default function Welcome() {
     <div className="screen">
       <div className="mt-auto mb-auto">
         <h1>Welcome to PopX</h1>
-        <p className="subtitle">Lorem ipsum dolor sit amet,<br/>consectetur adipiscing elit.</p>
+        <p className="subtitle">share your ideas,and discover <br/> communities that match your interestsn</p>
       </div>
       
       <div>

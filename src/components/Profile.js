@@ -24,7 +24,7 @@ export default function Profile() {
       </div>
 
       <div className="profile-bio">
-        Lorem Ipsum Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat, Sed Diam
+        Welcome to your profile. Here you can view your account details, manage your information, and stay connected with your network.
       </div>
     </div>
   );
